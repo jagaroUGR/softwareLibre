@@ -1,3 +1,2 @@
-# softwareLibre
 
-### Prueva de archivo Travis. A ver si funciona(Prueba con b)
+#Prueba para ver si funciona el programa y está todo correctamente escrito.
